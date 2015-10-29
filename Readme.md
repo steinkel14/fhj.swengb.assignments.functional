@@ -30,4 +30,13 @@ It is highly recommended to implement your own tests however. For
 this you can either add testfunctions in the FunctionalAssignmentTest
 file, or write a new Testfile and run your tests there.
 
+## Attention:
+
+If you have questions about the assignment you can either contact
+me directly by mail or you could post a question by using the
+github "issues" feature of this repository.
+
+[Link for functional assignment issues](https://github.com/rladstaetter/fhj.swengb.assignments.functional/issues)
+
+
 Have fun!
