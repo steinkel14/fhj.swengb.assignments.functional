@@ -2,9 +2,13 @@
 
 This is the first assignment for SWENGB 2015.
 
+
 ## Step 0
 
 You have to fork this repository, like you did with the TutorialAssignment.
+
+Please also update your "master" pom (located in c:/workspace) which
+is available [here](https://gist.githubusercontent.com/rladstaetter/82bdb5809e7e3e2aa506/raw/7d2245fe506f41c36a91eb863856b2646961c29a/pom.xml)
 
 ## Step 1
 
